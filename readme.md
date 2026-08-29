@@ -14,11 +14,6 @@
 
 ---
 
-### Customer Profile
-*Detailed customer view with AI-powered insights and activity tracking.*
-
-![Customer Detail](customer-detail.png)
-
 ---
 
 ### AI Insights & Q&A
