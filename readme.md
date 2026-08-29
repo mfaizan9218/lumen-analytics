@@ -10,7 +10,7 @@
 ### Customer Management
 *Full customer CRUD interface with search, filtering, and detailed customer profiles.*
 
-![Customers List]/customers-table.png)
+![Customers List](customers-table.png)
 
 ---
 
@@ -31,28 +31,28 @@
 ### Customer Segmentation
 *Automatically group customers by behavior, value, and engagement patterns.*
 
-![Segmentation View](./screenshots/segmentation-view.png)
+![Segmentation View](segmentation-view.png)
 
 ---
 
 ### Churn Risk Analysis
 *AI-powered churn detection with reasoning for each at-risk customer.*
 
-![Churn Risk View](./screenshots/churn-risk-view.png)
+![Churn Risk View](churn-risk-view.png)
 
 ---
 
 ###  Notifications Center
 *Stay updated on AI-flagged anomalies and account activity.*
 
-![Notifications Center](./screenshots/notifications-center.png)
+![Notifications Center](notifications-center.png)
 
 ---
 
 ###  BYOAI Provider Setup
 *Bring Your Own AI (BYOAI) — Connect your own OpenAI, Anthropic, or Gemini API keys. No hidden costs, no vendor lock-in.*
 
-![AI Provider Connection](./screenshots/ai-provider-connection.png)
+![AI Provider Connection](ai-provider-connection.png)
 
 ---
 
