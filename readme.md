@@ -24,7 +24,7 @@
 ### AI Insights & Q&A
 *Ask questions about your customer data in plain language. Powered by your own AI provider.*
 
-![AI Insights Q&A](/ai-insights-qa.png)
+![AI Insights Q&A](ai-insights-qa.png)
 
 ---
 
